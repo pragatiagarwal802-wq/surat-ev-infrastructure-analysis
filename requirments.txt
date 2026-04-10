@@ -1,0 +1,9 @@
+osmnx
+geopandas
+h3
+shapely
+pandas
+numpy
+json
+sklearn.preprocessing 
+sklearn.cluster
